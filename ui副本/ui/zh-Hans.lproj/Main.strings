@@ -1,0 +1,136 @@
+
+/* Class = "UILabel"; text = "今天摄入"; ObjectID = "1SC-e2-GF7"; */
+"1SC-e2-GF7.text" = "今天摄入";
+
+/* Class = "UILabel"; text = "摄入标准"; ObjectID = "1gc-29-WtF"; */
+"1gc-29-WtF.text" = "摄入标准";
+
+/* Class = "UILabel"; text = " dinner"; ObjectID = "4WB-df-C3d"; */
+"4WB-df-C3d.text" = " dinner";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4YM-bj-uGz"; */
+"4YM-bj-uGz.text" = "Label";
+
+/* Class = "UILabel"; text = "kcal"; ObjectID = "65c-Fo-KLy"; */
+"65c-Fo-KLy.text" = "kcal";
+
+/* Class = "UILabel"; text = "cm"; ObjectID = "6FR-w7-W3I"; */
+"6FR-w7-W3I.text" = "cm";
+
+/* Class = "UILabel"; text = "您的年龄是"; ObjectID = "7jm-vm-Arj"; */
+"7jm-vm-Arj.text" = "您的年龄是";
+
+/* Class = "UILabel"; text = "1000"; ObjectID = "8Tb-z4-AMj"; */
+"8Tb-z4-AMj.text" = "1000";
+
+/* Class = "UISearchBar"; placeholder = "搜索"; ObjectID = "94C-6X-9pv"; */
+"94C-6X-9pv.placeholder" = "搜索";
+
+/* Class = "UINavigationItem"; title = "饮食"; ObjectID = "9We-4Y-mOM"; */
+"9We-4Y-mOM.title" = "饮食";
+
+/* Class = "UILabel"; text = "kcal"; ObjectID = "9wE-iR-NFx"; */
+"9wE-iR-NFx.text" = "kcal";
+
+/* Class = "UILabel"; text = "我的身高："; ObjectID = "Ajg-Sf-KT7"; */
+"Ajg-Sf-KT7.text" = "我的身高：";
+
+/* Class = "UILabel"; text = " 早餐"; ObjectID = "DO7-Pw-0jF"; */
+"DO7-Pw-0jF.text" = " 早餐";
+
+/* Class = "UILabel"; text = "您 是"; ObjectID = "FCh-Y0-ywh"; */
+"FCh-Y0-ywh.text" = "您 是";
+
+/* Class = "UIButton"; normalTitle = "喝 了  一 杯 水 ＋"; ObjectID = "FDG-xS-4kN"; */
+"FDG-xS-4kN.normalTitle" = "喝 了  一 杯 水 ＋";
+
+/* Class = "UILabel"; text = "1000"; ObjectID = "FzZ-ZY-5a5"; */
+"FzZ-ZY-5a5.text" = "1000";
+
+/* Class = "UILabel"; text = "岁"; ObjectID = "IV4-Ao-sfT"; */
+"IV4-Ao-sfT.text" = "岁";
+
+/* Class = "UILabel"; text = "1000"; ObjectID = "IVE-em-Di6"; */
+"IVE-em-Di6.text" = "1000";
+
+/* Class = "UILabel"; text = "岁"; ObjectID = "Ia3-24-jwO"; */
+"Ia3-24-jwO.text" = "岁";
+
+/* Class = "UILabel"; text = "午餐"; ObjectID = "JPB-Rd-bzz"; */
+"JPB-Rd-bzz.text" = "午餐";
+
+/* Class = "UILabel"; text = "1000"; ObjectID = "Jyk-nw-FhD"; */
+"Jyk-nw-FhD.text" = "1000";
+
+/* Class = "UILabel"; text = "我的年龄："; ObjectID = "KIJ-gl-3n8"; */
+"KIJ-gl-3n8.text" = "我的年龄：";
+
+/* Class = "UILabel"; text = "z"; ObjectID = "KSy-g3-6CE"; */
+"KSy-g3-6CE.text" = "z";
+
+/* Class = "UILabel"; text = "厘米"; ObjectID = "KUp-de-rI9"; */
+"KUp-de-rI9.text" = "厘米";
+
+/* Class = "UILabel"; text = "kg"; ObjectID = "LaX-44-P6o"; */
+"LaX-44-P6o.text" = "kg";
+
+/* Class = "UILabel"; text = "您的身高是"; ObjectID = "N1f-IW-CrJ"; */
+"N1f-IW-CrJ.text" = "您的身高是";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ngw-lZ-iOu"; */
+"Ngw-lZ-iOu.text" = "Label";
+
+/* Class = "UILabel"; text = "  lunch"; ObjectID = "Qwh-Kg-Gl3"; */
+"Qwh-Kg-Gl3.text" = "  lunch";
+
+/* Class = "UILabel"; text = "breakfast"; ObjectID = "SK0-jm-v11"; */
+"SK0-jm-v11.text" = "breakfast";
+
+/* Class = "UIButton"; normalTitle = "编辑我的信息"; ObjectID = "Tea-5x-sKc"; */
+"Tea-5x-sKc.normalTitle" = "编辑我的信息";
+
+/* Class = "UILabel"; text = "  snack"; ObjectID = "Vbf-C8-rBY"; */
+"Vbf-C8-rBY.text" = "  snack";
+
+/* Class = "UILabel"; text = "零食"; ObjectID = "WWY-MF-PE0"; */
+"WWY-MF-PE0.text" = "零食";
+
+/* Class = "UILabel"; text = "180"; ObjectID = "aIn-XZ-WzR"; */
+"aIn-XZ-WzR.text" = "180";
+
+
+
+/* Class = "UILabel"; text = "70"; ObjectID = "bGw-09-bVn"; */
+"bGw-09-bVn.text" = "70";
+
+
+
+/* Class = "UILabel"; text = "kcal"; ObjectID = "gIR-tH-yvX"; */
+"gIR-tH-yvX.text" = "kcal";
+
+/* Class = "UILabel"; text = "我的体重："; ObjectID = "iA2-2J-39W"; */
+"iA2-2J-39W.text" = "我的体重：";
+
+/* Class = "UIButton"; normalTitle = "完成"; ObjectID = "j0S-tc-uiU"; */
+"j0S-tc-uiU.normalTitle" = "完成";
+
+/* Class = "UILabel"; text = "您的体重是"; ObjectID = "kiO-G8-9CQ"; */
+"kiO-G8-9CQ.text" = "您的体重是";
+
+/* Class = "UILabel"; text = "晚餐"; ObjectID = "mgM-v7-oji"; */
+"mgM-v7-oji.text" = "晚餐";
+
+/* Class = "UILabel"; text = "kcal"; ObjectID = "p5U-YG-FJS"; */
+"p5U-YG-FJS.text" = "kcal";
+
+/* Class = "UILabel"; text = "千克"; ObjectID = "pHX-eW-XmJ"; */
+"pHX-eW-XmJ.text" = "千克";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "v6M-Wm-KwR"; */
+"v6M-Wm-KwR.text" = "or";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "wId-Ub-4bz"; */
+"wId-Ub-4bz.text" = "20";
+
+/* Class = "UILabel"; text = "Tip: 每天8杯水 健康有活力"; ObjectID = "wu6-Jm-0QT"; */
+"wu6-Jm-0QT.text" = "Tip: 每天8杯水 健康有活力";
